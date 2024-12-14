@@ -244,12 +244,12 @@
                     <!-------------- CHANGE PLAYER INFO HEREEEEEEEEEEEEEE--------------->
                     <div class="rows">
                         <div class="col-md-4" style="background-color: #92CAF2;">PLAYER NAME</div>
-                        <div class="col-md-4" style="background-color: #92CAF2;">LOCALE</div>
+                        <div class="col-md-4" style="background-color: #92CAF2;">JERSEY NUM</div>
                         <div class="col-md-4" style="background-color: #92CAF2;">PROFILE</div>
                     </div>
                     <div class="rows">
                         <div class="col-md-4" style="height: 100px;">Butterfly</div>
-                        <div class="col-md-4" style="height: 100px;">San Francisco</div>
+                        <div class="col-md-4" style="height: 100px;">69</div>
                         <div class="col-md-4"><img src="img/angy neko.png"></div>
                     </div>
                 </div>

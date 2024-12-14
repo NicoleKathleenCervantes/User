@@ -149,26 +149,26 @@
                         <tr style="background-color: #3C70BD; color: white;">
                             <th>COACH</th>
                             <th>LOCALE</th>
-                            <th>CONTACT NUM</th>
+                            <th>SPORT</th>
                             <th>PROFILE</th>
                         </tr>
                         <!-------- INSERT DATA HEREEEEEEEEEEEEEEEE -->
                         <tr>
                             <td style="vertical-align: middle;">Shineko Van Rosevelt</td>
                             <td style="vertical-align: middle;">San Francisco</td>
-                            <td style="vertical-align: middle;">09454460318</td>
+                            <td style="vertical-align: middle;">Badminton</td>
                             <td style="vertical-align: middle;"><img src="img/compused neko.png"></td>
                         </tr>
                         <tr style="background-color: #92CAF2;">
                             <th>PLAYER NAME</th>
-                            <th>LOCALE</th>
                             <th>JERSEY NUM</th>
+                            <th>POSITION</th>
                             <th>PROFILE</th>
                         </tr>
                         <tr>
                             <td style="vertical-align: middle;">Rosuto Noneko</td>
-                            <td style="vertical-align: middle;">San Francisco</td>
                             <td style="vertical-align: middle;">69</td>
+                            <td style="vertical-align: middle;">Front</td>
                             <td style="vertical-align: middle;"><img src="img/cwazeh neko.png"></td>
                         </tr>
                     </table>

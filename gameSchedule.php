@@ -123,7 +123,7 @@
             <li><a href="home.php"><h4>Home</h4></a></li>
             <li><a class="active" href="gameSchedule.php"><h4>Game Schedule</h4></a></li>
             <li><a href="teams.php"><h4>Teams</h4></a></li>
-            <li><a href="contact_us.php"><h4>Contact Us</h4></a></li>
+            <li><a href="leaderboard.php"><h4>Leaderboard</h4></a></li>
         </ul>
         <div class="nav-right">
         <a href="#profile"><button class="btn btn-link btn-lg" style="color: #3C70BD; padding: 20px; padding-right: 40px;"><span class="glyphicon glyphicon-off"></span></button></a>

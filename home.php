@@ -138,7 +138,7 @@
             <li><a href="home.php"><h4>Home</h4></a></li>
             <li><a href="gameSchedule.php"><h4>Game Schedule</h4></a></li>
             <li><a href="teams.php"><h4>Teams</h4></a></li>
-            <li><a href="contact_us.php"><h4>Contact Us</h4></a></li>
+            <li><a href="leaderboard.php"><h4>Leaderboard</h4></a></li>
         </ul>
         <div class="nav-right">
             <!-------------- PUT LOGOUT PHP HEREEEEEEEEEEEEEE--------------->
